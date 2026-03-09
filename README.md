@@ -39,14 +39,14 @@
 
 | 课次 | 主题 | 实践工具 | 时长 |
 |------|------|----------|------|
-| 01 | [认识ChatGPT：会聊天的AI](lessons/semester-1/lesson-01/README.md) | ChatGPT / 豆包 | 50分钟 |
-| 02 | 文生图：AI画出我的梦想 | DALL-E / Midjourney | 60分钟 |
-| 03 | AI语音聊天：和AI说说话 | 语音助手 / ChatGPT语音版 | 45分钟 |
-| 04 | 文生视频：让故事动起来 | SoRA / Runway / Pika | 60分钟 |
-| 05 | AI写作业助手 | ChatGPT / Claude | 50分钟 |
-| 06 | AI讲故事：我的专属作家 | ChatGPT / 豆包 | 50分钟 |
-| 07 | AI音乐创作 | Suno / Udio | 50分钟 |
-| 08 | AI画图工具：文生图进阶 | Stable Diffusion / MJ | 60分钟 |
+| 01 | [认识ChatGPT：会聊天的AI](lessons/semester-1/lesson-01/README.md) | 豆包 / Kimi | 50分钟 |
+| 02 | 文生图：AI画出我的梦想 | 豆包画图 / 文心一格 | 60分钟 |
+| 03 | AI语音聊天：和AI说说话 | 智能音箱 / 豆包语音 | 45分钟 |
+| 04 | 文生视频：让故事动起来 | 剪映AI / 可灵AI | 60分钟 |
+| 05 | AI写作业助手 | 豆包 / Kimi | 50分钟 |
+| 06 | AI讲故事：我的专属作家 | 豆包 / Kimi | 50分钟 |
+| 07 | AI音乐创作 | Suno | 50分钟 |
+| 08 | AI画图工具：文生图进阶 | 豆包画图 / 文心一格 | 60分钟 |
 | 09 | ClaudeCode：AI编程助手 | Claude Code | 60分钟 |
 | 10 | AI视频剪辑：智能剪辑 | 剪映AI / CapCut | 50分钟 |
 | 11 | 我的AI创意作品集 | 综合运用 | 60分钟 |
@@ -100,39 +100,44 @@
 
 ## 推荐工具
 
-### AI对话与写作
-- [ChatGPT](https://chat.openai.com/) - OpenAI的智能对话助手
-- [Claude](https://claude.ai/) - Anthropic的AI助手
-- [豆包](https://www.doubao.com/) - 字节跳动的AI助手
-- [Kimi](https://kimi.moonshot.cn/) - 月之暗面的AI助手
+> ⚠️ **注意**：优先使用国内可用的工具。需要翻🔒的工具可能需要特殊网络环境。
 
-### AI绘画与创作
-- [DALL-E](https://openai.com/dall-e-3) - OpenAI文生图
-- [Midjourney](https://www.midjourney.com/) - 高质量AI绘画
-- [Stable Diffusion](https://stability.ai/) - 开源文生图
+### AI对话与写作（国内可用）
+- ⭐ [豆包](https://www.doubao.com/) - 字节跳动的AI助手，推荐！
+- ⭐ [Kimi](https://kimi.moonshot.cn/) - 月之暗面的AI助手
+- [文心一言](https://yiyan.baidu.com/) - 百度的AI助手
+- [通义千问](https://tongyi.aliyun.com/) - 阿里的AI助手
+- 🔒 [ChatGPT](https://chat.openai.com/) - OpenAI的智能对话助手
+- 🔒 [Claude](https://claude.ai/) - Anthropic的AI助手
+
+### AI绘画与创作（国内可用）
+- ⭐ [豆包画图](https://www.doubao.com/) - 推荐，简单易用
+- ⭐ [文心一格](https://yige.baidu.com/) - 百度AI画图
+- ⭐ [通义万相](https://tongyi.aliyun.com/) - 阿里AI画图
 - [Canva AI](https://www.canva.com/) - AI设计工具
+- 🔒 [Midjourney](https://www.midjourney.com/) - 高质量AI绘画
+- 🔒 [DALL-E](https://openai.com/dall-e-3) - OpenAI文生图
 
 ### AI视频制作
-- [SoRA](https://openai.com/sora) - OpenAI文生视频
-- [Runway](https://runwayml.com/) - AI视频生成与编辑
-- [Pika](https://pika.art/) - AI视频生成
-- [剪映AI](https://www.capcut.cn/) - 智能视频剪辑
+- ⭐ [剪映AI](https://www.capcut.cn/) - 智能视频剪辑，国内可用
+- [可灵AI](https://klingai.com/) - 快手AI视频，国内可用
+- 🔒 [Runway](https://runwayml.com/) - AI视频生成与编辑
+- 🔒 [Pika](https://pika.art/) - AI视频生成
 
 ### AI语音与音乐
+- ⭐ 智能音箱（小爱/天猫精灵/小度）- 推荐使用家里已有的
 - [Suno](https://suno.com/) - AI音乐创作
-- [Udio](https://www.udio.com/) - AI音乐生成
 - [ElevenLabs](https://elevenlabs.io/) - AI语音合成
 
 ### AI编程助手
-- [Claude Code](https://claude.ai/) - AI编程助手
-- [GitHub Copilot](https://github.com/features/copilot) - 代码补全
+- 🔒 [Claude Code](https://claude.ai/) - AI编程助手
+- 🔒 [GitHub Copilot](https://github.com/features/copilot) - 代码补全
 
 ### 传统学习工具
 - [Google Teachable Machine](https://teachablemachine.withgoogle.com/) - 无代码机器学习
 - [Scratch](https://scratch.mit.edu/) - 图形化编程
 
 ### 绘图工具
-
 - Canva - 制作课程图片
 - Figma - 专业设计工具
 - Draw.io - 流程图制作
